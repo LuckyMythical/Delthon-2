@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Venom Backup",
+      "script": "index.py",
+      "interpreter": "python3",
+      "interpreter_args": "-u"
+    }
+  ]
+}
