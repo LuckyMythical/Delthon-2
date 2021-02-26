@@ -1,15 +1,15 @@
 {
   "token": "NzI2OTM1NjUwOTU5MzYwMTkz.XvkhlQ.ay5H2s7PsqRzC2KlxAu-hfLRw7g",
-  "join_message": "Joined for a good reason ;)",
+  "join_message": "Thank you for inviting me! Get started with vp.help",
   "owners": [
     319591562654908417
   ],
   "prefix": [
     "vp."
   ],
-  "activity": "vp.help | Running Backup for Updates!",
+  "activity": "vp.help Running Delthon#2",
   "activity_type": "playing|watching|listening|competing",
   "status_type": "online|idle|dnd",
-  "version": "2.0.2",
-  "botserver": "https://discord.gg/BXEtkBQ"
+  "version": "2.1.6",
+  "botserver": "https://discord.gg/X9fSWWPUkH"
 }
