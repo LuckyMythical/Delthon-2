@@ -35,7 +35,7 @@ class Information(commands.Cog):
     async def invite(self, ctx):
         """ Invite me to your server """
 #        await ctx.send(f"**{ctx.author.name}**, use this URL to invite me\n<{discord.utils.oauth_url(self.bot.user.id)}>", delete_after=120)
-        await ctx.send(f"**{ctx.author.name}**, use this URL to invite me https://discord.com/oauth2/authorize?client_id=726935650959360193&scope=bot&permissions=537160774", delete_after=120)
+        await ctx.send(f"**{ctx.author.name}**, use this URL to invite me https://discord.com/oauth2/authorize?client_id=811349089044004914&scope=bot&permissions=8", delete_after=120)
 
     @commands.command(aliases=['supportserver', 'feedbackserver'])
     async def botserver(self, ctx):
