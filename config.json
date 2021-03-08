@@ -1,15 +1,21 @@
 {
   "token": "ODExMzQ5MDg5MDQ0MDA0OTE0.YCw5uA.HYugReTgDlnwa5rnyXLuy9RC9Ok",
-  "join_message": "Thank you for inviting me! Get started with vp.help",
+  "join_message": "Thank you for inviting me, type `vp.help` to get started!",
   "owners": [
     319591562654908417
   ],
-  "prefix": [
-    "vp."
+  "contestwinner": [
+  351471551582830592
   ],
-  "activity": "vp.help Running Delthon#2",
-  "activity_type": "playing|watching|listening|competing",
+  "prefix": [
+    "vp.",
+    "Vp.",
+    "VP."
+  ],
+  "activity": "vp.help",
+  "activity_type": "watching",
   "status_type": "online|idle|dnd",
-  "version": "2.1.6",
-  "botserver": "https://discord.gg/X9fSWWPUkH"
+
+  "version": "2.6.3",
+  "botserver": "https://discord.gg/tmQAh8sQjK"
 }
