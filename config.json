@@ -1,8 +1,8 @@
 {
-  "token": "ODExMzQ5MDg5MDQ0MDA0OTE0.YCw5uA.HYugReTgDlnwa5rnyXLuy9RC9Ok",
+  "token": "",
   "join_message": "Thank you for inviting me, type `vp.help` to get started!",
   "owners": [
-    319591562654908417
+   
   ],
   "contestwinner": [
   351471551582830592
@@ -17,5 +17,5 @@
   "status_type": "online|idle|dnd",
 
   "version": "2.6.3",
-  "botserver": "https://discord.gg/tmQAh8sQjK"
+  "botserver": ""
 }
